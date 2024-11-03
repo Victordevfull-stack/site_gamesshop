@@ -17,3 +17,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Adicionado reset no style.css
 - Link index.html ao style.css
+
+## [0.0.3] 2024-11-03
+
+### Adicionado
+
+- Criado Cabeçalho do Site
