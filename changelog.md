@@ -23,3 +23,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Adicionado
 
 - Criado Cabeçalho do Site
+
+## [0.0.4] 2024-11-03
+
+### Adicionado
+
+- Adicionado Sobre do Site.
