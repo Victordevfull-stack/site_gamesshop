@@ -35,3 +35,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Adicionado
 
 - Adicionado sessão de Contato do site.
+
+## [0.0.6] 2024-11-03
+
+### Adicionado
+
+- Adicionado rodapé do site.
+- ligação de sobre e contatos.
