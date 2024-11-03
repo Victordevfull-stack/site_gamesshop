@@ -29,3 +29,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Adicionado
 
 - Adicionado Sobre do Site.
+
+## [0.0.5] 2024-11-03
+
+### Adicionado
+
+- Adicionado sessão de Contato do site.
