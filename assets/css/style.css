@@ -53,6 +53,9 @@ header .container, section .container{
     margin-right: 8px;
 }
 
+.brands-list{
+    margin-top: 8px;
+}
 section .container{
     align-items: flex-start;
 }

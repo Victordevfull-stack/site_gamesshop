@@ -42,3 +42,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Adicionado rodapé do site.
 - ligação de sobre e contatos.
+- Descrição da loja alterado.
