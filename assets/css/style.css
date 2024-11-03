@@ -82,7 +82,9 @@ section p {
 
 .social-links li{
     display: inline;
-    margin-right: 8px;
+    margin-right: 4px;
+    margin-left: 32px;
+    box-sizing: border-box;
 }
 
 .social-links li a{
@@ -96,6 +98,10 @@ section p {
 .contacts-methods{
     display: flex;
     justify-content: space-between;
+}
+
+.contacts-methods p{
+    margin-left: 16px;
 }
 
 form input, form textarea, form button{
@@ -112,6 +118,8 @@ form textarea{
 
 section h3{
     margin-bottom: 16px;
+    margin-left: 32px;
+    box-sizing: border-box;
 }
 
 form button{
@@ -133,4 +141,8 @@ footer{
     background-color: #111e43;
     color: #ecf0f1;
     padding: 16px 0;
+}
+
+#about{
+    margin-bottom: 16px;
 }
