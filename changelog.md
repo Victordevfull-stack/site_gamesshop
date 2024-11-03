@@ -10,3 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Adicionado
 
 - Adicionado Changelog.md
+
+## [0.0.2] 2024-11-03
+
+### Modificado
+
+- Adicionado reset no style.css
+- Link index.html ao style.css
